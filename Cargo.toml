@@ -1,0 +1,10 @@
+[package]
+name = "grav_engine"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.10.0"
+rand_distr = "0.6.0"
+image = "0.25.10"
+rayon = "1.11.0"
